@@ -1,0 +1,15 @@
+.flashy {
+  color: red;
+  font-style: italic;
+}
+
+p.best {
+  font-size: medium;
+  font-weight: bold;
+  text-align: center;
+}
+
+.best {
+  color:blue;
+  font-style: underline;
+}
